@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/dansish/.local/share/virtualenvs/btre_project--y87RLXV/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
